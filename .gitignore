@@ -1,0 +1,32 @@
+# Python Bytecode and Cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# Virtual Environments
+venv/
+.venv/
+env/
+ENV/
+
+# Environment and Secret Files
+.env
+*.env
+.netrc
+_netrc
+
+# Data Directories
+# Raw satellite data files are large and should not be committed to Git
+data/raw/*
+!data/raw/.gitkeep
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/

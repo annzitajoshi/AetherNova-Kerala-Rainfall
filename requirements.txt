@@ -1,0 +1,29 @@
+# AetherNova – Kerala Rainfall Trend Detective
+# Core Dependencies for NASA Space Apps Challenge 2026
+
+# Web Application Framework
+streamlit>=1.35.0
+
+# Data Processing & Numerical Analysis
+pandas>=2.2.0
+numpy>=1.26.0
+
+# NASA NetCDF / HDF5 Satellite Data Processing
+xarray>=2024.1.0
+netCDF4>=1.6.5
+
+# Statistical Analysis & Trend Detection
+scipy>=1.13.0
+pymannkendall>=1.4.3
+
+# Scientific Visualizations
+plotly>=5.22.0
+
+# Spatial Geometry & Land Boundary Masking
+shapely>=2.0.0
+
+# Network & API Requests
+requests>=2.31.0
+
+# Automated Presentation Generation
+python-pptx>=1.0.0
