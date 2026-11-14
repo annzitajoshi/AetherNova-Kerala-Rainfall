@@ -2,7 +2,7 @@ Conversation Log
 
 Running the automated test suite across all AetherNova modules, data loaders, analytical calculations, and chart generators to verify project integrity before presenting the final report. I will conclude our final submission summary once the test execution finishes.
 
-NASA Space Apps Challenge 2026 — Final Project Submission Package
+#NASA Space Apps Challenge 2026 — Final Project Submission Package
 
 Project: AetherNova – Kerala Rainfall Trend Detective
 Tagline: Decoding Rainfall. Discovering Patterns.
