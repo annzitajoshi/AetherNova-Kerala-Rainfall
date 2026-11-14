@@ -399,7 +399,8 @@ from src.data_loader import (
 )
 from src.statistics import (
     compute_annual_totals,
-    compute_monthly_climatology,
+    compute_monthly_climatology,Use Control + Shift + m to toggle the tab key moving focus. Alternatively, use esc then tab to move to the next interactive element on the page.
+
     compute_seasonal_breakdown,
     run_mann_kendall_test,
 )
